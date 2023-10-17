@@ -1,4 +1,4 @@
-# MS-Seq. (Anchor-based and Bidirectional RNA Sequencing Algorithms)
+# MS-Seq (Anchor-based and Bidirectional RNA Sequencing Algorithms)
 
 ## Description
 A set of LC-MS-based RNA sequencing algorithms.
