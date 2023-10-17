@@ -1,4 +1,4 @@
-# MS-Seq. (Anchor-based and Bi-directional RNA Sequencing Algorithms)
+# MS-Seq. (Anchor-based and Bidirectional RNA Sequencing Algorithms)
 
 ## Description
 A set of LC-MS-based RNA sequencing algorithms.
@@ -49,7 +49,7 @@ Run the following command to do Anchor-based sequencing.
 ```Bash
 python seq/process.py -d <LC-MS_dataset> -o <3|5> -l <anchor_mass>
 ```
-Run the following command to do Bi-directional sequencing.
+Run the following command to do Bidirectional sequencing.
 ```Bash
 python seq/process.py -d <LC-MS_dataset> -o <3|5>
 ```
